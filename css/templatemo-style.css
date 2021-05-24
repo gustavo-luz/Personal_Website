@@ -48,6 +48,7 @@ html {
   margin-right: -15px;
 }
 
+
 .col-lg-3,
 .col-lg-4,
 .col-lg-6,
@@ -66,6 +67,8 @@ html {
   flex: 0 0 100%;
   max-width: 100%;
 }
+
+
 
 @media (min-width: 576px) {
   .col-sm-6 {
@@ -274,6 +277,8 @@ p, address {
   font-size: 2.2rem;
   font-weight: 400;
   margin-bottom: 5px;
+  position: relative;
+  right: 40px;
 }
 
 .tm-site-description {
@@ -299,6 +304,19 @@ p, address {
   padding-left: 25px;
 }
 
+.tm-nav-li2 {
+  list-style: none;
+  display: block;
+  margin-bottom: 0;
+  padding-right: 25px;
+  padding-left: 25px;
+  position: relative;
+  top: 20px;
+  left: 500px;
+}
+
+
+
 @media (max-width: 991px) {
   .tm-nav-li {
     padding-right: 15px;
@@ -307,7 +325,7 @@ p, address {
 }
 
 .tm-nav-link {
-  color: white;
+  color: rgb(240, 229, 229);
   text-decoration: none;
   padding-bottom: 10px;
 }
