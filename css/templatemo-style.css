@@ -178,6 +178,11 @@ html {
     margin-bottom: 20px;
 }
 
+.tm-mb-p2 {
+  margin-bottom: 20px;
+  width: fit-content;
+}
+
 .tm-text-success {
   color: #319966;
 }
@@ -193,6 +198,13 @@ html {
 .img-fluid {
   max-width: 100%;
   height: auto;
+}
+
+.img-fluid-smaller {
+  max-width: 100%;
+  height: 400px;
+  
+  
 }
 
 body {
@@ -626,9 +638,11 @@ p, address {
 }
 
 .tm-history-text {
-  max-width: 480px;
+  max-width: 600px;
   margin: 15px auto 0;
+  font-size: smaller;
 }
+
 
 .tm-history-description {
   margin-bottom: 40px;
