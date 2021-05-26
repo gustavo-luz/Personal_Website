@@ -1,1 +1,5 @@
-<?php include_once(“about.html”); ?>
+<?php
+
+include_once(“index.html”);
+
+?>
