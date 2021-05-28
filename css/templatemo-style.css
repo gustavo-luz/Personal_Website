@@ -210,12 +210,12 @@ html {
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 17px;
-  background-color: #ccc;
+  background-color: #f3f3f3;
   overflow-x: hidden;
 }
 
 .container {
-  background-color: white;
+  background-color:#ecf0f3;
 }
 
 p, address {
@@ -337,7 +337,7 @@ p, address {
 }
 
 .tm-nav-link {
-  color: rgb(240, 229, 229);
+  color: rgb(4, 4, 4);
   text-decoration: none;
   padding-bottom: 10px;
 }
