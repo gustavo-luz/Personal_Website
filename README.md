@@ -1,6 +1,6 @@
 # Personal_Website
 
-Website in construction, incentive to learn css and html. this should be the 2.0 more minimalistic version of my current personal website made with flask 
+Website in construction, incentive to learn css and html. this should be the 2.0 more minimalistic version of my current personal website made with flask [https://gustavo-luz.herokuapp.com/]()
 
 ## commits
 
@@ -16,15 +16,3 @@ changed: history-text (width and fontsize), added tm-mb-p2, img-fluid-smaller
 * [ ] other stuff
 * [ ] contact
 * [ ] change headers, smaller menu and photo
-
-###### PERSONAL NOTES
-
-CHANGE COLOR:
-
-```
-body {
-}
-
-.container {
-}
-```
