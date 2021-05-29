@@ -11,6 +11,7 @@ changed: history-text (width and fontsize), added tm-mb-p2, img-fluid-smaller
 ## todo
 
 * [ ] favicon
+* [ ] DESCOBRIR PQ SÓ MUDA QUANDO FICA MENOR A MARGEM, RESPONSIVIDADE
 * [ ] timeline
 * [ ] portfolio
 * [ ] other stuff
